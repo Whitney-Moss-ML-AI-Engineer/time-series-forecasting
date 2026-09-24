@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+statsmodels
+arch
+scikit-learn
+xgboost
+lightgbm
+catboost
+torch
+tensorflow
+optuna
+mlflow
+matplotlib
+plotly
+jupyter
+pytest
