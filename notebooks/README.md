@@ -1,0 +1,15 @@
+# Notebooks
+
+Suggested sequence:
+01_data_quality.ipynb
+02_time_series_exploration.ipynb
+03_baselines.ipynb
+04_statistical_models.ipynb
+05_machine_learning.ipynb
+06_lstm_gru.ipynb
+07_transformer.ipynb
+08_walk_forward_validation.ipynb
+09_uncertainty.ipynb
+10_model_comparison.ipynb
+11_error_analysis.ipynb
+12_research_summary.ipynb
